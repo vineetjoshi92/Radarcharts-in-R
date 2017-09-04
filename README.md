@@ -1,2 +1,4 @@
 # Radarcharts-in-R
-Radar charts for to compare attributes of soccer players and teams
+Radar charts to compare attributes of soccer players and teams
+
+ 
